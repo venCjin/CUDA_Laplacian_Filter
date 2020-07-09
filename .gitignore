@@ -1,0 +1,8 @@
+# Visual studio files
+.vs/
+.sln
+.vcxproj*
+
+# Binaries directories
+Bulid/
+Intermediate/
