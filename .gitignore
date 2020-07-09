@@ -1,7 +1,7 @@
 # Visual studio files
-.vs/
-.sln
-.vcxproj*
+*.vs/
+*.sln
+*.vcxproj*
 
 # Binaries directories
 Bulid/
