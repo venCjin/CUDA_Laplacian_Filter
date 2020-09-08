@@ -4,5 +4,5 @@
 *.vcxproj*
 
 # Binaries directories
-Bulid/
+Build/
 Intermediate/
